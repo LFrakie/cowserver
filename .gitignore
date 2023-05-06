@@ -1,0 +1,9 @@
+# Comentarios: utiliza el símbolo de almohadilla para agregar comentarios al archivo
+# Ignorar el directorio "node_modules"
+node_modules/
+# Ignorar archivos con extensión ".log"
+*.log
+# Ignorar el archivo ".env"
+.env
+# Ignorar todos los archivos en la carpeta "dist" y sus subcarpetas
+dist/
